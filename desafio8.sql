@@ -1,0 +1,1 @@
+SELECT 5 + 6 As 'A', 'de' As 'Trybe', 2 + 8 As 'eh';
